@@ -33,7 +33,7 @@ Sneaky deb packages
 
 Now this is a short-cut or sneaky way to create deb package for Ubuntu using newly compiled haproxy binaries.
 
-Download (but not install) the default deb packages provided by Ubuntu repos in Ubuntu 16.04 (versio 1.6.3):
+Download (but not install) the default deb packages provided by Ubuntu repos in Ubuntu 16.04 (version 1.6.3):
 
 ```
 # apt-get --download-only install haproxy
