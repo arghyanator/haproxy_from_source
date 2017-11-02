@@ -3,7 +3,7 @@ HAPROXY 1.7.9 from source
 
 dependency: liblua5.3-0
 
-Install liblua, liblua-dev, libpcre, libpcre-dev, make and gcc packges before trying to compile Haprroxy on Ubuntu 16.04 Xenial.
+Install liblua, liblua-dev, libpcre, libpcre-dev, make and gcc packges before trying to compile Haproxy on Ubuntu 16.04 Xenial.
 
 Download source version 1.7.9 stable from: http://www.haproxy.org/download/1.7/src/haproxy-1.7.9.tar.gz
 
