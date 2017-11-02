@@ -47,7 +47,7 @@ __Copy the downloaded deb package out of cache folder and 'explode'  (extract de
 # cd /tmp/package
 # dpkg-deb -x haproxy_1.6.3-1ubuntu0.1_amd64.deb extract
 ```
-__Copy the files I compiled under the extracted package folder in temp replacing the package provided binary files (overwrite versio 1.6.3 wirh version 1.7.9 binaries):__
+__Copy the files I compiled under the extracted package folder in temp replacing the package provided binary files (overwrite version 1.6.3 with version 1.7.9 binaries):__
 ```
 # cp /root/haproxy-1.7.9/haproxy /tmp/package/extract/sbin/
 # cp /root/haproxy-1.7.9/haproxy-systemd-wrapper /tmp/package/extract/sbin/
